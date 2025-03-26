@@ -17,13 +17,12 @@ Umeed is a dedicated platform that connects specially-abled children with school
 1. **Clone the repository**:
 
    ```bash
-   git clone: https://github.com/Shravan21105/PRODIGY_WD_01.git
+   git clone: https://github.com/Shravan21105/Umeed-Website.git
 
 2. **Navigate to the project directory (frontend)**:
 
    ```bash
    cd frontend
-   
 
 3. **Install frontend dependencies**:
 
