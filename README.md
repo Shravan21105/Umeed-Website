@@ -34,25 +34,18 @@ Umeed is a dedicated platform that connects specially-abled children with school
 
    ```bash
    cd backend
-
-
-5. **Navigate to the project directory (backend)**:
-
-   ```bash
-   cd backend
-
    
-6. **Install backend dependencies**:
+5. **Install backend dependencies**:
 
    ```bash
    npm install
    
-7. **Run the Backend Server**:
+6. **Run the Backend Server**:
 
    ```bash
    npm start
 
-8. **Run the Frontend Server**:
+7. **Run the Frontend Server**:
 
    ```bash
    cd ../frontend
